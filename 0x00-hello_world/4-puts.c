@@ -1,7 +1,12 @@
+/*
+ * File: 4-puts.c
+ * Auth: Ayub Kimani
+ */
+
 #include <stdio.h>
 
 /**
- * This program prints "Programming is like building a multilingual
+ * main - Prints "Programming is like building a multilingual
  *                puzzle, followed by a new line.
  *
  * Return: Always 0.
