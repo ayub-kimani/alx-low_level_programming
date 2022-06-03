@@ -1,6 +1,6 @@
 /*
  * File: 2-print_alphabet.c
- * Auth: Ayub Kimani
+ * Author: Ayub Kimani
  */
 
 #include <stdio.h>
