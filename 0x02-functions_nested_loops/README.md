@@ -4,21 +4,9 @@ The aim of this project is to learn about header files, functions, loops and nes
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
-* C files are compiled using gcc
+* C files are compiled using gcc 12.1
 * Tested on Ubuntu 20.04 LTS
 * Vi/Vim/Emacs Editors
-
-## Files
-Scripts written in C:
-
-# Functions, nested loops
-
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about header files, functions, loops and nested loops in **C language**.
-
-## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
 
 ## Files
 All of the following files are programs written in C:
