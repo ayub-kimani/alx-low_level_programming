@@ -13,3 +13,5 @@ This track is aimed at preparing anyone to take on the Software Development jour
 | ------------ | ----------- |
 | [`0x00-hello_world`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x00-hello_world) | This project dives into programming using the **C Language** |
 | [`0x01-variables_if_else_while`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x01-variables_if_else_while) | Deep dive into Keywords and identifiers, integers, Arithmetic Operators in C, If statements in C, if…else statement, Relational operators, Logical operators, while loop in C, While loop. using the **C Language** |
+| [`0x02-functions_nested_loops`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x02-functions_nested_loops
+) | Deep dive into header files, functions, loops and nested loops in the **C Language** |
