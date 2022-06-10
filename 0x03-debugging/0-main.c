@@ -1,5 +1,5 @@
 /*
- * File: 101-print_number.c
+ * File: 0-main.c
  * Author: Ayub Kimani
  */
 
