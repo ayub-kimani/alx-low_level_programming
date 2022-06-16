@@ -1,8 +1,3 @@
-/*
- * File: 102-magic.c
- * Author: Ayub Kimani
- */
-
 #include <stdio.h>
 
 int main(void)
