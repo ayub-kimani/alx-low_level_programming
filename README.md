@@ -22,3 +22,4 @@ This track is aimed at preparing anyone to take on the Software Development jour
 | [`0x08-recursion`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x08-recursion) | The aim of this project is to learn about recursion in **C language**. |
 | [`0x09-static_libraries`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x09-static_libraries) | The aim of this project is to learn about Static libraries in **C language**. |
 | [`0x0A-argc_argv`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x0A-argc_argv) | The aim of this project is to learn about argc and argv in **C language**. |
+| [`0x0B-malloc_free`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x0B-malloc_free) | The aim of this project is to learn about Automatic and dynamic allocation, malloc and free in **C language**. |
