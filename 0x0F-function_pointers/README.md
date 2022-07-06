@@ -20,3 +20,4 @@ Scripts written in C:
 | `3-get_op_func.c` | Function pointer that returns the pointer of the arithmetic functions |
 | `3-main.c` | Entry point |
 | `100-main_opcodes.c` | Prints the opcodes of its own main function |
+| `function_pointers.h` | Header file containing prototypes for all functions |
