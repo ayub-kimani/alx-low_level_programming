@@ -5,8 +5,8 @@
  *       used in the 0x0F-function_pointers directory.
  */
 
-#ifndef _FUNCTION_POINTERS_
-#define _FUNCTION_POINTERS_
+#ifndef FUNCTION_POINTERS
+#define FUNCTION_POINTERS
 
 #include <stdlib.h>
 
