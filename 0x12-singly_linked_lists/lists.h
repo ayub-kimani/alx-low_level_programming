@@ -5,8 +5,8 @@
  *       and types written in the 0x12-singly_linked_lists.
  */
 
-#ifndef _LISTS_
-#define _LISTS_
+#ifndef LISTS
+#define LISTS
 
 #include <stdio.h>
 #include <stdlib.h>
