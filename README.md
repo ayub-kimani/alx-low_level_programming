@@ -28,3 +28,4 @@ This track is aimed at preparing anyone to take on the Software Development jour
 | [`0x0F-function_pointers`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x0F-function_pointers) | The aim of this project is to learn about Function Pointer and Pointers to functions in **C language**. |
 | [`0x10-variadic_functions`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x10-variadic_functions) | The aim of this project is to learn about variadic functions in **C language**. |
 | [`0x12-singly_linked_lists`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x12-singly_linked_lists) | The aim of this project is to learn about the Singly linked lists in **C language**. |
+| [`0x13-more_singly_linked_lists`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists) | The aim of this project is to learn more about the Singly linked lists in **C language**. |
