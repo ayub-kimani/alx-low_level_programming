@@ -1,8 +1,3 @@
-/*
- * File: 1-main.c
- * Author: Ayub Kimani
- */
-
 #include <stdio.h>
 
 /**
