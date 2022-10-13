@@ -1,10 +1,3 @@
-/*
- * File: function_pointers.h
- * AUth: Ayub Kimani
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x0F-function_pointers directory.
- */
-
 #ifndef FUNCTION_POINTERS
 #define FUNCTION_POINTERS
 
