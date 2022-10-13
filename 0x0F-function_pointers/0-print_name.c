@@ -1,3 +1,8 @@
+/*
+ * File: 0-print_name.c
+ * Auth: Ayub Kimani
+ */
+
 #include "function_pointers.h"
 
 /**
