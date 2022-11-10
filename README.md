@@ -34,3 +34,4 @@ This track is aimed at preparing anyone to take on the Software Development jour
 | [`0x17-doubly_linked_lists`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x17-doubly_linked_lists) | The aim of this project is to learn about Doubly linked lists in **C language**. |
 | [`0x18-dynamic_libraries`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x18-dynamic_libraries) | The aim of this project is to learn about Dynamic libraries in **C language**. |
 | [`0x1A-hash_tables`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x1A-hash_tables) | The aim of this project is to learn about hashing by implementing hash functions and hash tables with **C language**. |
+| [`0x1C-makefiles`](https://github.com/ayub-kimani/alx-low_level_programming/tree/master/0x1C-makefiles) | The aim of this project is to learn about makefiles, when, why and how to use them (with variables, explicit and implicit rules) |
